@@ -1,6 +1,6 @@
 # CasinoGame
-Basic casino game that shows examples of object orientated programming.
+Basic casino game selector that shows examples of object orientated programming in Java.
 
-Programmed using IDE IntelliJ
+This program is ran and operated via a terminal.
 
 Blackjack portion of the game is not completely finished
